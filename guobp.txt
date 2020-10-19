@@ -1,2 +1,2 @@
 guobp.txt v1
-guobp.txt v2
+guobp.txt v2   real
